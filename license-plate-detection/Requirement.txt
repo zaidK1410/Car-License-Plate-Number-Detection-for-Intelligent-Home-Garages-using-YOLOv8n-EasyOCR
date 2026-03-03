@@ -1,5 +1,21 @@
-ultralytics
-easyocr
-opencv-python
-numpy
-torch
+the steps to make the code works:
+1. install python 3
+2. install the Required libraries
+3. put the images in the that you want to predict the License plate on it in the data/images
+4. open main.py and run it, when it is done it should output:
+
+- the predicted images in the data/predictions 
+- the predicted plate number in data/predictions/prediction.txt
+
+
+notes:
+ 
+* EasyOCR might predict some letters into numbers 
+* only works with English Numeric system 
+
+Required libraries:
+- ultralytics
+- easyocr
+- opencv-python
+- numpy
+- torch
