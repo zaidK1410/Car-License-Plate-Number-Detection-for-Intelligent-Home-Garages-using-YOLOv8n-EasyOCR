@@ -1,4 +1,4 @@
-# 🚗 License Plate Detection for Smart Home Garage
+#  License Plate Detection for Smart Home Garage
 
 Automatic License Plate Recognition (ALPR) system built using YOLOv8n and EasyOCR.
 
@@ -6,7 +6,7 @@ This project detects car license plates in real time and extracts the plate numb
 
 ---
 
-## ✨ Features
+##  Features
 - Real-time license plate detection
 - OCR number recognition
 - Webcam/IP camera support
@@ -15,7 +15,7 @@ This project detects car license plates in real time and extracts the plate numb
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - YOLOv8 (Ultralytics)
 - EasyOCR
@@ -24,16 +24,26 @@ This project detects car license plates in real time and extracts the plate numb
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 license-plate-detection/
 
 │
+
 ├── models/
+
 │   └── best.pt
+
 │
+
 ├── data/
+
 │   ├── images/
+
 │   └── predictions/
+
 │
+
 ├── main.py
+
 ├── requirements.txt
+
