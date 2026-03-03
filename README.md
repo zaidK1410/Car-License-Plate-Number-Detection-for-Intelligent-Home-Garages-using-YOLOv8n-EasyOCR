@@ -26,6 +26,7 @@ This project detects car license plates in real time and extracts the plate numb
 
 ## 📂 Project Structure
 license-plate-detection/
+
 │
 ├── models/
 │   └── best.pt
