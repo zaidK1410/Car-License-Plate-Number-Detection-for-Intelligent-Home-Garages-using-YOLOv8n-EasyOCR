@@ -1,0 +1,1 @@
+# Car-License-Plate-Number-Detection-for-Intelligent-Home-Garages-using-YOLOv8n-EasyOCR
